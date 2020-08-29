@@ -1,12 +1,11 @@
-<img align="right" width="400" height="400" src="https://github.com/diogogon/diogogon/blob/master/Livro_completo_Capa.png">
+<img align="right" width="250" height="400" src="https://github.com/diogogon/diogogon/blob/master/Livro_completo_Capa.png">
 
 ## Bem-vindo!
 
 ### Eu sou o Diogo,
 #### E aqui ideia do que sou e o que encontrar aqui:
 
-<p align="justify"> Sou um Engenheiro de produção que busca combinar meu conhecimentos com Business Intelligence para garantir o sucesso no negócio.
-O github vai ser o local onde estarão meus projetos de dashboards, problemas e soluções de estudos de caso reais ou fictícios. </p>
+<p align="justify"> Sou um Engenheiro de produção que busca combinar meus conhecimentos com Business Intelligence para garantir o sucesso no negócio. Ao lado a realização de um projeto de PO, com ajuda de meus professores. E agora, nesse novo desafio, o github vai ser o local onde estarão meus projetos de dashboards, problemas e soluções de estudos de caso reais ou fictícios. </p>
 
 ### Sobre mim:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/diogogon/)
