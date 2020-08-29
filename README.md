@@ -3,7 +3,7 @@
 ## Bem-vindo!
 
 ### Eu sou o Diogo,
-#### E aqui ideia do que sou e o que encontrar aqui:
+#### E aqui uma ideia do que sou e o que encontrar aqui:
 
 <p align="justify"> Sou um Engenheiro de produção que busca combinar meus conhecimentos com Business Intelligence para garantir o sucesso no negócio. Ao lado a realização de um projeto de PO, com ajuda de meus professores. E agora, nesse novo desafio, o github vai ser o local onde estarão meus projetos de dashboards, problemas e soluções de estudos de caso reais ou fictícios. </p>
 
