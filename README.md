@@ -1,16 +1,14 @@
 <img align="right" width="250" height="400" src="https://github.com/diogogon/diogogon/blob/master/Livro_completo_Capa.png">
 
-## Bem-vindo!
+#### Bem-vindo!
 
-### Eu sou o Diogo,
-#### E aqui uma ideia do que sou e o que encontrar aqui:
+Eu sou o Diogo e aqui será um repositório de arquivos para meu site.
 
-<p align="justify"> Sou um Engenheiro de produção que busca combinar meus conhecimentos com Business Intelligence para garantir o sucesso no negócio. Ao lado a realização de um projeto de PO, com ajuda de meus professores. E agora, nesse novo desafio, o github vai ser o local onde estarão meus projetos de dashboards, problemas e soluções de estudos de caso reais ou fictícios. </p>
+#### Aproveite e siga meu trabalho:
 
-### Sobre mim:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/diogogon/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/diogogon/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55027998619461&text=Hello!)](https://api.whatsapp.com/send?phone=55027998619461&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:dio.goncalves90@gmail.com)
+[![Google Sites](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/diogogoncalvespbi)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogogon/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=55027998619461&text=Hello!)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dio.goncalves90@gmail.com)
 
-### Obrigado pela visita!
+#### Obrigado pela visita!
