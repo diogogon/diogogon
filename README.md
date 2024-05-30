@@ -1,4 +1,4 @@
-<img align="right" width="250" height="400" src="https://github.com/diogogon/diogogon/blob/master/livro_completo_capa.png">
+<img align="right" width="250" height="400" src="https://github.com/diogogon/diogogon/blob/master/livro-completo-capa.png">
 
 <p align="center">Oi 👋, me chamo Diogo</p>
 <p align="center">Um desenvolvedor de produtos de dados: foco em Data Viz</p>
