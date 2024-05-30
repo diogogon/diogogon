@@ -43,7 +43,7 @@ Ao longo da carreira, procurei me desafiar na análise de dados por diversas fer
 
 Me siga no linkedin e pode me chamar, se quiser:
 
-<!-- Comentar meu site: possivelmente posto tudo por aqui
+<!-- Ver a viabilidade do site:
 [![Google Sites](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/diogogoncalvespbi) 
 -->
 
