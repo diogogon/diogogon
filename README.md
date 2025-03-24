@@ -36,10 +36,9 @@ Ao longo da carreira, procurei me desafiar na análise de dados por diversas fer
 <h3 align="left">Detalhes</h3>
 
 🔭 Estou trabalhando como Analista de dados na DR Transformação Digital  
-🌱 No momento, estou estudando **Fundamentos de Python**  
-🎯 Meu objetivo é iniciar **Data Science** com o pé direito em previsões  
+🌱 No momento, estou estudando **Python e SQL** para analistas  
+🎯 Meu objetivo é desenvolver habilidades de **liderança** para assumir e conduzir equipes no futuro  
 🤗 Gosto de vivenciar novos aprendizados e colaborar com o compartilhamento de conhecimento, principalmente, para minha equipe  
-❤️ À direita meu orgulho de universidade: meu ponto de partida para meu interesse em Data Science
 
 Me siga no linkedin e pode me chamar, se quiser:
 
